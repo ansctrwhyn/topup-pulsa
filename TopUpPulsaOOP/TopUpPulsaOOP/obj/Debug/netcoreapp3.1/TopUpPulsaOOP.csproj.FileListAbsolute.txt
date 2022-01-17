@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.exe
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.deps.json
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.dll
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\bin\Debug\netcoreapp3.1\TopUpPulsaOOP.pdb
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.dll
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.pdb
+C:\Users\LENOVO\source\repos\TopUpPulsaOOP\TopUpPulsaOOP\obj\Debug\netcoreapp3.1\TopUpPulsaOOP.genruntimeconfig.cache
